@@ -1,6 +1,7 @@
 ## COVID-19 Tracker
 A simple Application for tracking and visualizing COVID-19 Data
 
+<strong>Application live link:</strong> https://covid-19-tracker-7654d.firebaseapp.com/
 
 
 **Download**
@@ -14,3 +15,4 @@ In your terminal write:
 And run:
 
 `> npm install`
+
